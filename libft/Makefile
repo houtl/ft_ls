@@ -6,7 +6,7 @@
 #    By: thou <marvin@42.fr>                        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2016/11/03 17:40:06 by thou              #+#    #+#              #
-#    Updated: 2017/04/04 17:21:25 by thou             ###   ########.fr        #
+#    Updated: 2017/04/04 17:33:39 by thou             ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -21,7 +21,7 @@ WHITE					=	\033[37;1m
 RESET					=	\033[0m
 CLEAR					=	\033[H\e[J
 
-NAME					=	libftprintf.a
+NAME					=	libft.a
 FLAG					=	-Wall -Wextra -Werror -Iincludes
 SRC_DIR					=	src/
 OBJ_DIR					=	obj/
